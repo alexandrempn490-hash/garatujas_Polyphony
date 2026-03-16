@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Projeto</title>
+</head>
+
+<body>
+
+<h1 id="titulo"></h1
+<p id="texto"></p>
+
+<script src="script.js"></script>
+
+</body>
+</html>
